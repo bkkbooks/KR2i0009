@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2i0009/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部九
+  hash: sha256:7259abc35f9c57e48d61e8bd9fb410aa10fef2792f2e1139b2461e6b899d1fba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2i0009_WYG_000-1a, image: WYG0464/WYG0464-0069a.png}
+body:
+  text: 江南野史載記𩔖提要臣等謹案江南野史十卷宋龍衮撰其書皆紀南唐事用紀傳之體而不立紀傳之名第一卷為先主昇第二卷為嗣主璟第三卷為後主煜而附以宜春王從謙及小周后第四卷以下載宋齊丘以下僅三十人陳陶孟賓于諸人有傳而查文徽韓熙載諸人乃悉不載攷鄭樵通志畧載此書原二十卷此本僅十卷殆佚其半歟叙次冗雜頗乖史體然其中如孫晟林文肇諸傳頗有異同可資考証馬令作南唐書亦多采之流傳既久固亦未可廢也乾隆四十五年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:640c3aecad98a80bfcaba9e4cb37e30dd310dd414a8238d1804ecfece81cbca6
+metadata:
+  title: 江南野史
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:37:25.140505'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2i0009/KR2i0009_000.txt
+hash: sha256:0b416a973e091cda696c5c55cda08b94336c89f5d53b6fbae5da6286597eb613
